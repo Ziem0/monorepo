@@ -8,3 +8,4 @@ function randomNoGenerator(min, max) {
 }
 module.exports = randomNoGenerator;
 
+console.log('final');

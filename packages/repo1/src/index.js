@@ -6,6 +6,7 @@ function randomNoGenerator(min, max) {
     console.log('b');
     console.log('f1');
     console.log('c');
+    console.log('ssq1');
     return (Math.random() * (max-min)) + min;
 }
 module.exports = randomNoGenerator;

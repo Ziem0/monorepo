@@ -4,6 +4,7 @@ function randomNoGenerator(min, max) {
     }
     console.log('a');
     console.log('b');
+    console.log('f1');
     return (Math.random() * (max-min)) + min;
 }
 module.exports = randomNoGenerator;
